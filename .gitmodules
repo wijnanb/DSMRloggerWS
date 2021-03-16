@@ -1,0 +1,27 @@
+[submodule "libraries/arduino-dsmr"]
+	path = libraries/arduino-dsmr
+	url = https://github.com/matthijskooijman/arduino-dsmr
+[submodule "libraries/Time"]
+	path = libraries/Time
+	url = https://github.com/PaulStoffregen/Time
+[submodule "libraries/WiFiManager"]
+	path = libraries/WiFiManager
+	url = https://github.com/tzapu/WiFiManager
+[submodule "libraries/TelnetStream"]
+	path = libraries/TelnetStream
+	url = https://github.com/jandrassy/TelnetStream
+[submodule "libraries/arduinoWebSockets"]
+	path = libraries/arduinoWebSockets
+	url = https://github.com/Links2004/arduinoWebSockets
+[submodule "libraries/SSD1306Ascii"]
+	path = libraries/SSD1306Ascii
+	url = https://github.com/greiman/SSD1306Ascii
+[submodule "libraries/pubsubclient"]
+	path = libraries/pubsubclient
+	url = https://github.com/knolleary/pubsubclient
+[submodule "libraries/ArduinoJson.git"]
+	path = libraries/ArduinoJson.git
+	url = https://github.com/bblanchon/ArduinoJson.git
+[submodule "libraries/ModUpdateServer"]
+	path = libraries/ModUpdateServer
+	url = https://github.com/mrWheel/ModUpdateServer
